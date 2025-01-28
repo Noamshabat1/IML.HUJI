@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
+  <h1 align="center" style="border-bottom: none"><b>Operating Systems</b></h1>
+
 # 🌟 Introduction to Machine Learning  
 **Hebrew University, Jerusalem, Israel**  
 
