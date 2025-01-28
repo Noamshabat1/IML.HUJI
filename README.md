@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hebrew_University_Logo.svg/1200px-Hebrew_University_Logo.svg.png" alt="huji-logo" height="150px" />
-  <h1 align="center" style="border-bottom: none"><b>Operating Systems</b></h1>
+  <h1 align="center" style="border-bottom: none"><b> Introduction to Machine Learning</b></h1>
 
-# 🌟 Introduction to Machine Learning  
 **Hebrew University, Jerusalem, Israel**  
 
 Welcome to the **Introduction to Machine Learning** repository! This course is your gateway to the exciting world of machine learning and statistical learning. Whether you're diving into cutting-edge algorithms or building your own tools, this repository provides everything you need to succeed.  
